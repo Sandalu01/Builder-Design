@@ -11,13 +11,5 @@ public class Computure {
         this.Dispalayspace = dispalayspace;
     }
 
-    @Override
-    public String toString() {
-        return "Computure{" +
-                "brand='" + brand + '\'' +
-                ", ram=" + ram +
-                ", Dispalysize=" + Dispalysize +
-                ", Dispalayspace=" + Dispalayspace +
-                '}';
-    }
+
 }
